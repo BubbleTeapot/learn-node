@@ -1,0 +1,22 @@
+{
+    "name": "hellokoa",
+    "version": "1.0.0",
+    "description": "learn-node",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "htcs",
+    "license": "MIT-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git@githup.com:sdldp/learn-node.git"
+    },
+    "dependencies": {
+        "koa": "2.7.0"
+    }
+}
