@@ -1,0 +1,22 @@
+{
+    "name": "hellomysql",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "mysql",
+        "sequelize"
+    ],
+    "author": "htcs",
+    "license": "MIT-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sdldp/learn-node.git"
+    },
+    "dependencies": {
+        "mysql": "^2.17.1",
+        "sequelize": "^5.9.0"
+    }
+}
